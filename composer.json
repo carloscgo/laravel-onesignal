@@ -1,6 +1,6 @@
 {
   "name": "carloscgo/onesignal-laravel",
-  "description": "OneSignal Push Wrapper Laravel",
+  "description": "OneSignal Push Wrapper Laravel 5",
   "keywords": ["onesignal", "webpush", "push", "laravel", "laravel 5"],
   "type": "library",
   "require": {
@@ -21,16 +21,8 @@
   "authors": [
     {
       "name": "Carlos Camacho",
-      "email": "carloscgo123@gmail.com"
-    },
-    {
-      "name": "Berkay Kaya",
-      "email": "berkayk@gmail.com",
-      "homepage": "http://berkaykaya.com"
-    },
-    {
-      "name": "Maykonn Welington Candido",
-      "email": "maykonn@outlook.com"
+      "email": "carloscgo123@gmail.com",
+      "homepage": "https://linkedin.com/in/carlos-camacho-29755043"
     }
   ],
   "minimum-stability": "dev",
